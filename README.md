@@ -1,6 +1,6 @@
 # Image Segmentation
 
-[DOI: 10.5281/zenodo.10450698](https://zenodo.org/records/10450698)
+[![DOI](https://zenodo.org/badge/667966299.svg)](https://zenodo.org/doi/10.5281/zenodo.10450697)
 
 These codes allow one to cut an input image into two or four equal horizontal segments and save them as separate images. They utilise the [Python Imaging Library (PIL)](https://pillow.readthedocs.io/en/stable/) to perform the image segmentation.
 
