@@ -1,5 +1,7 @@
 # Image Segmentation
 
+[DOI: 10.5281/zenodo.10450698](https://zenodo.org/records/10450698)
+
 These codes allow one to cut an input image into two or four equal horizontal segments and save them as separate images. They utilise the [Python Imaging Library (PIL)](https://pillow.readthedocs.io/en/stable/) to perform the image segmentation.
 
 These scripts were created for the ERC project The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol). Cf. https://www.oeaw.ac.at/projects/tibschol for more information.
